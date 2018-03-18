@@ -1,0 +1,4 @@
+42	Fred
+40	Wilma
+50	Barney
+55	Betty
